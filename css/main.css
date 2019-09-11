@@ -1,0 +1,120 @@
+body{
+    background: linear-gradient(brown 10%, black 90%);
+    height: 100%;
+}
+
+#heading{
+    margin-top: 20px;
+}
+
+
+h1{
+    text-align: center;
+    color: rgb(228, 205, 205);
+    background-color: rgb(71, 32, 32);
+    padding-bottom: 20px;
+    padding-top: 20px;
+    margin-top: 30px;
+    border-radius: 20px;
+}
+
+h2{
+    text-align: center;
+    background-color: rgb(56, 3, 3);
+    color:rgb(204, 134, 134);
+    padding-bottom: 20px;
+    padding-top: 20px;
+    margin-top: 30px;
+    border-radius: 20px;
+}
+
+p{
+    background-color: rgb(228, 205, 205);
+    border-radius: 20px;
+    margin-top: 35px;
+    font-size: 30px;
+    text-align: center;
+    color: rgb(56, 3, 3);
+}
+
+.quotes{
+    max-height: 1800px;
+    margin-top: 30px;
+    text-align: center;
+    border-radius: 20px;
+    padding: 20px;
+    font-size: 1em;
+    color: whitesmoke;
+}
+
+/*button styles*/
+
+
+button{
+    height: 75px;
+    margin-top: 300px;
+   }
+
+
+#btn-custom {
+    color:rgb(71, 32, 32);
+    background-color: rgb(228, 205, 205);
+    border-color: rgb(228, 205, 205);
+    font-size: 1.7em;
+    font-weight: 400;
+    white-space: pre-wrap;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+ #btn-custom2{
+    color:rgb(71, 32, 32);
+    background-color: rgb(228, 205, 205);
+    border-color: rgb(228, 205, 205);
+    font-size: 1.7em;
+    font-weight: 400;
+    white-space: pre-wrap;
+    margin-top: 20px;
+    border-radius: 20px;
+ }
+
+ 
+
+ #quit{
+    color: rgb(228, 205, 205);
+    background-color: rgb(71, 32, 32);
+    border-color: rgb(71, 32, 32);
+    border-radius: 20px;
+    white-space: pre-wrap;
+    font-size: 1.7em;
+    margin-top: 30px;
+    height: 100%;
+
+}
+
+/*form styles*/
+
+input{
+    border-radius:30px;
+    text-align: center;
+    color: rgb(71, 32, 32);
+    font-weight: 800;
+       
+   }
+   
+label{
+    font-size: 1.6rem;
+    font-weight: 500;
+    margin-top: 30px;
+    color:rgb(228, 205, 205);
+    text-align: center;
+}
+
+.footer{
+    text-align: center;
+    padding-top: 250px;
+    color: white;
+}
+
+.footer a{
+color: rgb(231, 180, 180);
+}
